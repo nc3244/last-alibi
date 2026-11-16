@@ -1,13 +1,15 @@
 # Last Alibi — Initial Project Plan
 Status: Initial / G1 proposal v0.2 — human-worker surveillance survival mystery. Owner: Nikhil Chagam. Individual project with planned agent assistance.
 Course end confirmed by owner: December 21, 2026. This is not evidence of the official final-project submission date.
-Official G2/G3/G4 dates: OPEN; obtain from course calendar. Adjust the proposed checkpoints below to satisfy official gates.
+G2: December 6, 2026. G3: December 20, 2026. Both dates supplied by the owner. G4/final submission date and detailed gate evidence requirements remain OPEN.
 
 ## Known course dates
 - November 15, 11:59 p.m.: G1 recording/deck submission.
 - November 16: G1 review; announcement also requests assigned-peer Braintrust notes before class.
 - November 17: expected gate decision per G1 page.
 - November 19: two replies per G1 page. Reconcile with assigned-peer announcement; do not assume one replaces the other.
+- December 6: G2 (owner-confirmed).
+- December 20: G3 (owner-confirmed).
 - December 21: class ends.
 
 ## Proposed internal schedule
@@ -17,11 +19,13 @@ Official G2/G3/G4 dates: OPEN; obtain from course calendar. Adjust the proposed 
 | Nov 16–22 | Nikhil with narrative/coding assistance: warehouse case/knowledge tables, four static cameras, tick loop, power and door, scripted interviews | Gate feedback | One replayable survive-and-solve route; clock, power, door warnings, board and dawn accusation work |
 | Nov 23–29 | Nikhil with engineering/QA assistance: agent context, validation, fallback, usage logging | Scripted baseline | No illegal fact changes or model-controlled movement; pending replies freeze time; fallback works; timing/cost recorded |
 | Nov 30–Dec 6 | Nikhil: 4–6 exploratory external playtests | Both modes and usable UI | Observe core loop; record threat comprehension, survival, power choices, theory revisions and supported accusations |
+| Dec 6 | Nikhil: G2 review package | Playable scripted/adaptive prototype and external-player evidence | Submit runnable build, recording, updated GDD/config, logs and measured latency/cost per gate instructions |
 | Dec 7–13 | Nikhil: fix major issues; freeze scope | Playtest evidence | Re-test blockers; preserve deterministic baseline and solution |
 | Dec 14–20 | Nikhil: polish, docs, package, delivery preparation | Frozen scope | Another person can follow run instructions; final evidence and known issues documented |
+| Dec 20 | Nikhil: G3 review package | Re-tested build, scoped plan and documented risks | Present required gate evidence; confirm exact course checklist |
 | Dec 21 | Course end | Official submission requirements | Confirm actual delivery timing from course calendar |
 
-Before G2: prioritize fixed case and legal survival route → camera/door/power scripted loop → worker dialogue agent/validator → external-player observation. Current GDF describes a combined G2/G3 review; official dates and required evidence must be confirmed.
+Before G2: prioritize fixed case and legal survival route → camera/door/power scripted loop → worker dialogue agent/validator → external-player observation. The current GDF describes combined G2/G3 evidence; the owner supplied separate dates of December 6 and December 20. Plan for both dates and confirm the exact evidence checklist with the instructor.
 Plan moves to Asana after G1, per assignment; this file does not claim that migration is done.
 
 ## Risk profile
@@ -33,7 +37,7 @@ Ratings are qualitative proposal evidence, not measured results.
 | Technology | High | Dialogue consistency plus tick/attack/power integration unmeasured | Deterministic survival systems, paused generation, validator, timeout/fallback, API cap |
 | Team | High | One human must review/integrate agent output | Narrow scope, explicit role handoffs, human acceptance |
 | Genre / Mechanics | High | Fair survive-and-solve path and threat readability untested | Fixed routes/truth, pre-breach warnings, survive-and-solve walkthrough and external tests |
-| Timeline | High | Official gates unknown; course ends Dec 21 | Confirm dates, baseline first, scope freeze Dec 13, final-week reserve |
+| Timeline | High | G2 Dec 6; G3 Dec 20; course ends Dec 21 | Meet Dec 6 playable target, baseline first, freeze Dec 13, package before Dec 20 |
 
 High risks share limited individual delivery capacity and an untested survival-and-deduction combination.
 Cut relationship depth, camera/art polish and secondary event variety before cutting fair threat warnings, core evidence, validation or baseline. Exclude continuous real time, free roam, 3D, voice and multiple nights.
@@ -43,7 +47,7 @@ Approve one short night, one office, four static cameras, three human workers, o
 Hold requires correcting no feasible survive-and-solve route, unreadable/unavoidable threats, absent scripted baseline, or an infeasible latency/cost path.
 
 ## Open questions and outstanding submission work
-Official gate dates; instructor access to repo; final model/rates; whether documented concept revisions satisfy the earlier-exploration requirement; executable-agent manifest requirements. Recording and peer reviews remain human submission tasks; no recording, playtests, or gate approval claimed.
+G4/final submission requirements; instructor access to repo; final model/rates; whether documented concept revisions satisfy the earlier-exploration requirement; executable-agent manifest requirements. Recording supplied by owner: [G1 presentation](https://www.youtube.com/watch?v=Bb3vtTC3QIM). Video duration/content/viewer access have not been verified. Course submission and peer reviews remain human tasks; no playtests or gate approval are claimed.
 
 ## Revision basis
 Owner requested a Five Nights at Freddy's-inspired surveillance/power design, then explicitly replaced robotic performers with human workers. The original room-search mystery and the robotic-worker direction are documented alternatives/revisions; no claim is made about pre-November-9 exploration. The latest proposal is in the Initial GDD. These documents do not represent a built game.
