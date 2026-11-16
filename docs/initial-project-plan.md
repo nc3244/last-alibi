@@ -28,7 +28,7 @@ Plan moves to Asana after G1, per assignment; this file does not claim that migr
 Ratings are qualitative proposal evidence, not measured results.
 | Dimension | Rating | Basis | Mitigation |
 |---|---|---|---|
-| IP / Concept | Low | Familiar surveillance-horror mechanics; original warehouse/workers/assets planned | Credit FNAF's camera/power reference; use original branding/content; track provenance and terms |
+| IP / Concept | Medium | Familiar surveillance-horror mechanics; original warehouse/workers/assets planned | Credit FNAF's camera/power reference; use original branding/content; track provenance and terms |
 | Business / Audience | Medium | Survival-horror + deduction audience overlap untested | Observe whether tension supports deduction instead of distracting from it |
 | Technology | High | Dialogue consistency plus tick/attack/power integration unmeasured | Deterministic survival systems, paused generation, validator, timeout/fallback, API cap |
 | Team | High | One human must review/integrate agent output | Narrow scope, explicit role handoffs, human acceptance |
