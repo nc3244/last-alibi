@@ -13,7 +13,7 @@ Spend an action investigating a worker's alibi, or use power to defend the secur
 - [Initial Project Plan](docs/initial-project-plan.md)
 - [Seven-slide G1 deck](https://docs.google.com/presentation/d/1zRL4ogjdb5r7MVhqNQkOLrDQKXv6wV3Q1HGVCmi6vQs/edit)
 
-- [G1 presentation recording](https://www.youtube.com/watch?v=Bb3vtTC3QIM)
+- [G1 presentation recording](https://youtu.be/PtRrq9FKMV8)
 
 ## Proposed prototype
 One short night, one office, four static cameras, three human workers, one powered door, power/clock/case-strength HUD and an evidence board. Godot 4 / GDScript plus a server-side OpenAI API; model and rates TBD. No executable game, test runner or deployed agent exists yet.
