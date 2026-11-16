@@ -4,7 +4,7 @@ Owner: Nikhil Chagam, Executive Producer and Creative Director. Individual proje
 
 ## Revision and The X
 Owner-directed revision: replace the room-exploration mystery with camera-based night-shift survival horror featuring human workers. Preserve evidence-based deduction and remembered lies.
-The X: Monitor cameras, question three workers, and ration security power to survive a night shift while uncovering a murderer hiding among your coworkers.
+The X: Monitor cameras, question workers, and ration power to feel the tension of surviving a night shift while exposing a murderer among your coworkers.
 
 ## Premise, player and platform
 You are the overnight security guard at a closed warehouse. A murder has triggered a lockdown, and police assistance arrives at dawn. Three human workers remain inside: a shift supervisor, a maintenance technician, and a cleaner. One is the murderer and wants to reach the security office to silence you; the others move for work or to hide unrelated secrets. These are original characters, not robotic performers.
