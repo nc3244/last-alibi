@@ -62,5 +62,8 @@ Return of the Obra Dinn: evidence-linked deduction record; change to a live surv
 Use original warehouse, characters, dialogue, UI and audiovisual assets. Do not copy franchise characters, names, maps, imagery, sounds, code or distinctive branding. No reference grants an asset license. Godot uses MIT terms; retain notices and record dependency licenses. Exact provider/model terms and rates: OPEN.
 
 ## Open questions
-Official G2/G3/G4 dates; final case/culprit/evidence rubric; final tick count, resource costs and routes; warning clarity; model/provider rates; final build target; measured latency/cost and survival balance.
+G4/final submission requirements; final case/culprit/evidence rubric; final tick count, resource costs and routes; warning clarity; model/provider rates; final build target; measured latency/cost and survival balance.
 See [Configuration](initial-configuration.md) and [Project Plan](initial-project-plan.md).
+
+## Gate dates
+G2: December 6, 2026. G3: December 20, 2026. Dates supplied by Nikhil. Course ends December 21. See Project Plan for checkpoints.
