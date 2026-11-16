@@ -47,7 +47,7 @@ Approve one short night, one office, four static cameras, three human workers, o
 Hold requires correcting no feasible survive-and-solve route, unreadable/unavoidable threats, absent scripted baseline, or an infeasible latency/cost path.
 
 ## Open questions and outstanding submission work
-G4/final submission requirements; instructor access to repo; final model/rates; whether documented concept revisions satisfy the earlier-exploration requirement; executable-agent manifest requirements. Recording supplied by owner: [G1 presentation](https://www.youtube.com/watch?v=Bb3vtTC3QIM). Video duration/content/viewer access have not been verified. Course submission and peer reviews remain human tasks; no playtests or gate approval are claimed.
+G4/final submission requirements; instructor access to repo; final model/rates; whether documented concept revisions satisfy the earlier-exploration requirement; executable-agent manifest requirements. Recording supplied by owner: [G1 presentation](https://youtu.be/PtRrq9FKMV8). Video duration/content/viewer access have not been verified. Course submission and peer reviews remain human tasks; no playtests or gate approval are claimed.
 
 ## Revision basis
 Owner requested a Five Nights at Freddy's-inspired surveillance/power design, then explicitly replaced robotic performers with human workers. The original room-search mystery and the robotic-worker direction are documented alternatives/revisions; no claim is made about pre-November-9 exploration. The latest proposal is in the Initial GDD. These documents do not represent a built game.
