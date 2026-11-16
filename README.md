@@ -13,10 +13,12 @@ Spend an action investigating a worker's alibi, or use power to defend the secur
 - [Initial Project Plan](docs/initial-project-plan.md)
 - [Seven-slide G1 deck](https://docs.google.com/presentation/d/1zRL4ogjdb5r7MVhqNQkOLrDQKXv6wV3Q1HGVCmi6vQs/edit)
 
+- [G1 presentation recording](https://www.youtube.com/watch?v=Bb3vtTC3QIM)
+
 ## Proposed prototype
 One short night, one office, four static cameras, three human workers, one powered door, power/clock/case-strength HUD and an evidence board. Godot 4 / GDScript plus a server-side OpenAI API; model and rates TBD. No executable game, test runner or deployed agent exists yet.
 
 ## Design references
 Five Nights at Freddy's: fixed-station camera surveillance and limited-power defense. L.A. Noire: evidence confrontation. Return of the Obra Dinn: deduction records. Original setting, human characters, writing, audiovisual assets and branding; no franchise content is included and no affiliation is claimed.
 
-Course ends December 21, 2026; internal schedule targets preparation by December 20. Official gate/submission dates remain to be confirmed.
+Course ends December 21, 2026; internal schedule targets preparation by December 20. G2: December 6, 2026. G3: December 20, 2026 (dates supplied by owner). G4/final submission requirements remain to be confirmed.
